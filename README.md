@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am Ayush Mondal, currently pursuing a B.Tech in Computer Science and Engineering at Maulana Abul Kalam Azad University of Technology, with an expected graduation in 2028. I am actively learning Machine Learning, DSA, Data Science, and related fields. In my second year, I developed several projects using Python Tkinter for GUI applications.
+#                                                                       💫 About Me:
+I am Ayush Mondal, currently pursuing a B.Tech in Computer Science and Engineering at St. Thomas' College of Engineering and Technology, affiliated with Maulana Abul Kalam Azad University of Technology, with an expected graduation in 2028. I am actively learning Machine Learning, Data Structures and Algorithms (DSA), Data Science, and related fields. In my second year, I developed several projects using Python Tkinter for creating GUI applications. 
 
 
 # 💻 Tech Stack:
