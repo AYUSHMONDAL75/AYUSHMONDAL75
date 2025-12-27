@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Ayush Mondal. I have a B.Tech in Computer Science and <br>Engineering from Maulana Abul Kalam Azad University of Technology. <br>I will complete my B.Tech in 2028. I am currently learning Machine <br>Learning, Data Science, and other related subjects. In the 2nd year I <br>have created some projects using Python Tkinter (GUI).
+I am Ayush Mondal, currently pursuing a B.Tech in Computer Science and Engineering at Maulana Abul Kalam Azad University of Technology, with an expected graduation in 2028. I am actively learning Machine Learning, DSA, Data Science, and related fields. In my second year, I developed several projects using Python Tkinter for GUI applications.
 
 
 # 💻 Tech Stack:
